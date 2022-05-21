@@ -1,6 +1,6 @@
 /*console.log("presiono boton  a ver si sale")*/
 
-function calcularPrecio(evt) {
+function calcularPrecio() {
     let cantidad = parseInt(document.getElementById("cantidad").value);
     let descuento = document.getElementById("categoria").value;
     let totalAPagar = document.getElementByI("totalAPagar");
@@ -23,6 +23,8 @@ switch (descuento) {
     default:
         total=cantidad * entrada;
       }
-
+      document.getElementById("resumen").onclick= calcularPrecio;
+      document.getElementById("totalAPagar").value = total;
 
 }
+document.getElementById("totalAPagar");
