@@ -6,7 +6,7 @@
  ## Mi avance incluyendo JS
  [Mi TPIntegrador con JS actualizado avance...]( https://lba2244.github.io/CaC_TPIntegrador_front/)
 
- ## Trabajo Práctico Intergrador Fond-End 2022_1C incluyendo JS 
+ ## Trabajo Práctico Intergrador Front-End 2022_1C incluyendo JS 
   https://lba2244.github.io/CaC_TPIntegrador_front/
 
   
